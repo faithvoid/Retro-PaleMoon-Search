@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>Old'aVista</ShortName>
+    <Description>Search through Geocities archives with Old'aVista!</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Url type="text/html" method="GET" template="http://www.oldavista.com/search.php?q={searchTerms}"></Url>
+    <SearchForm>http://www.oldavista.com/</SearchForm>
+</SearchPlugin>
